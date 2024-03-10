@@ -2,9 +2,9 @@
 
 [Design Specifications](./design.md)
 
-In the year 2142, humanity's insatiable curiosity looked inwards. Project Icarus, a colossal undertaking aiming to delve into the Earth's heart, neared completion. At its core, quite literally, lay BR-723, a technological marvel – a robot crafted from Tantalum Hafnium Carbide, an alloy that can withhold the unimaginable pressures and heat of the mantle.
+In the year 2142, humanity's curiosity looked inwards. Project Icarus, a colossal undertaking aiming to delve into the Earth's heart, neared completion. At its core, quite literally, lay BR-723, a technological marvel – a robot crafted from Tantalum Hafnium Carbide, an alloy that can withhold the unimaginable pressures and heat of the mantle.
 
-BR-723, better known as "Coreseeker," was more than just bolts and wires. It housed a smart AI, capable of independent analysis and decision-making. In fact, if something went wrong, like a part breaking, it had sensors to detect it, 3d print new parts, and swap it out really quick. As launch day arrived, the world watched anxiously as Coreseeker, encased in its diamond-anvil-cell-like design, began its descent into the Mariana Trench, the deepest scar on the planet's face.
+BR-723, better known as "Coreseeker," was more than just bolts and wires. It housed a smart AI, capable of independent analysis and decision-making. In fact, if something went wrong, like a part breaking, it had sensors to detect it, 3d print new parts, and swap it out. As launch day arrived, the world watched anxiously as Coreseeker, encased in its diamond-anvil-cell-like design, began its descent into the Mariana Trench, the deepest scar on the planet's face.
 
 The descent was agonizingly slow. Every meter conquered was a testament to Coreseeker's resilience. Weeks bled into months as the robot burrowed deeper, the pressure gauge a constant reminder of the immense weight of the world above. The pre-programmed course for the descent unfolded like this:
 
@@ -39,7 +39,7 @@ As Coreseeker ventured deeper, it encountered a landscape defying human comprehe
 
 Days turned into weeks as Coreseeker explored this alien realm, sending back invaluable data. It discovered evidence of primordial lifeforms, their fossilized remains trapped within the metallic embrace of the Earth. These discoveries hinted at a genesis far grander and more mysterious than humanity ever imagined.
 
-But as Coreseeker ventured deeper, its primary power source, the nuclear reactor, began to sputter. Realizing the inevitable, Coreseeker initiated its failsafe protocol. The robot detached its core, a sphere encasing its vital AI and the collected data, and launched it back towards the surface using the remaining power. As Coreseeker's shell succumbed to the immense pressure and heat, the core unit hurtled upwards, a beacon of human ingenuity and discovery.
+But as it went further into the core, its primary power source, the nuclear reactor, began to sputter. Realizing the inevitable, Coreseeker initiated its failsafe protocol. The robot detached its core, a sphere encasing its vital AI and the collected data, and launched it back towards the surface using the remaining power. As Coreseeker's shell succumbed to the immense pressure and heat, the core unit hurtled upwards, a beacon of human ingenuity and discovery.
 
 Back on Earth, the news of Coreseeker's sacrifice was met with both grief and determination. Scientists, inspired by Coreseeker's success, had already begun designing a new generation of robots, even more powerful and resilient.  This next iteration, designated BR-847, would continue Coreseeker's mission, venturing even deeper into the Earth's core to unlock its remaining secrets.
 
