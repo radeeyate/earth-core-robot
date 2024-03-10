@@ -28,11 +28,11 @@
 
 # Travel plan through layers
 
-| Layer        | Distance to travel through layer | Target speed within layer | Estimated time through layer |
-|--------------|----------------------------------|---------------------------|------------------------------|
-| Crust        | 30 km                            | 10 km/hr                  | 3 hours                      |
-| Mantle       | 2,900 km                         | 20 km/hr                  | 145 hours                    |
-| Lithosphere  | 100 km                           | 10 km/hr                  | 10 hours                     |
-| Asthenosphere| 2,800 km                         | 20 km/hr                  | 140 hours                    |
-| Outer Core   | 2,200 km                         | 50 km/hr                  | 44 hours                     |
-| Inner Core   | 1,200 km                         | 30 km/hr                  | 40 hours                     |
+| Layer        | Distance to travel through layer | Target speed within layer | Estimated time through layer | Temperature   |
+|--------------|----------------------------------|---------------------------|------------------------------|---------------|
+| Crust        | 30 km                            | 10 km/hr                  | 3 hours                      | 200-400°C     |
+| Mantle       | 2,900 km                         | 20 km/hr                  | 145 hours                    | 1,000-2,700°C |
+| Lithosphere  | 100 km                           | 10 km/hr                  | 10 hours                     | 300-500°C     |
+| Asthenosphere| 2,800 km                         | 20 km/hr                  | 140 hours                    | 1,300-2,200°C |
+| Outer Core   | 2,200 km                         | 50 km/hr                  | 44 hours                     | 4,500-5,500°C |
+| Inner Core   | 1,200 km                         | 30 km/hr                  | 40 hours                     | 5,200-6,000°C |

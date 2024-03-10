@@ -12,26 +12,38 @@ The descent was agonizingly slow. Every meter conquered was a testament to Cores
   * Distance to Travel Through Layer: 30 km
   * Target Speed Within Layer: 10 km/hr
   * Estimated Time to Travel Through Layer: 3 hours
+  * Temperature: 200-409°C
+  * Layer Type: Solid
 * Layer: Mantle
   * Distance to Travel Through Layer: 2,900 km
   * Target Speed Within Layer: 20 km/hr
   * Estimated Time to Travele Through Layer: 145 hours
+  * Temperature: 1,000-2,700°C
+  * Layer Type: Solid
 * Layer: Lithosphere (crust and upper mantle)
   * Distance to Travel Through Layer: 100 km
   * Target Speed Within Layer: 10 km/hr
   * Estimated Time to Travel Through Layer: 10 hours
+  * Temperature: 300-500°C
+  * Layer Type: Solid
 * Layer: Asthenosphere (within mantle)
   * Distance to Travel Through Layer: 2,800 km
   * Target Speed Within Layer: 20 km/hr
   * Estimated Time to Travel Through Layer: 140 hours
+  * Temperature: 1,300-2,200°C
+  * Layer Type: Solid
 * Layer: Outer Core
   * Distance to Travel Through Layer: 2,200 km
   * Target Speed Within Layer: 50 km/hr
   * Estimated Time to Travel Through Layer: 44 hours
+  * Temperature: 4,500-5,500°C
+  * Layer Type: Liquid
 * Layer: Inner Core
   * Distance to Travel Through Layer: 1,200 km
   * Target Speed Within Layer: 30 km/hr
   * Estimated Time to Travel Through Layer: 40 hours
+  * Temperature: 5,200-6,000°C
+  * Layer Type: Solid
 
 Finally, Coreseeker reached the boundary between the mantle and the core, a sea of molten metal. The temperature soared beyond imagination, threatening to melt even Coreseeker's advanced shell. But the robot, guided by its agile AI, activated its internal cooling system, a testament to human ingenuity. It then unleashed its high-powered laser, carving a path through the dense liquid metal.
 
